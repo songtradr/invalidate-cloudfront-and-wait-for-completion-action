@@ -1,6 +1,6 @@
 name: "AWS Cloudfront Invalidate Action and Wait for Completion"
 description: "Invalidate Cloudfront distribution paths and wait for completion"
-author: "forked by muratiger"
+author: "forked from muratiger"
 branding:
   icon: "cloud-lightning"
   color: "orange"
