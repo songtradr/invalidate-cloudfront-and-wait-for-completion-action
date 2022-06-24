@@ -1,0 +1,9 @@
+name: 'AWS Cloudfront Invalidate Action and Wait for Completion'
+description: 'Invalidate Cloudfront distribution paths and wait for completion'
+author: 'muratiger'
+branding:
+  icon: 'cloud-lightning'
+  color: 'orange'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
